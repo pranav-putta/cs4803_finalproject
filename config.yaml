@@ -1,2 +1,3 @@
-list_datasets: [['search_qa', 'raw_jeopardy']]
+list_datasets: [['sagnikrayc/quasar']]
+
 select_dataset: 0
