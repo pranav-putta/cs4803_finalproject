@@ -1,3 +1,5 @@
 from dataloader import load
 
-print(load())
+data = load()
+
+print(data)

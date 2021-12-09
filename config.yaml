@@ -1,2 +1,2 @@
-list_datasets: [['search_qa', 'train_test_val']]
+list_datasets: [['search_qa', 'raw_jeopardy']]
 select_dataset: 0
