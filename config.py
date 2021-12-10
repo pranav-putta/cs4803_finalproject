@@ -6,6 +6,7 @@ import yaml
 class Config:
     list_datasets: list
     select_dataset: int
+    model: dict
 
     @property
     def dataset(self):

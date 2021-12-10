@@ -1,3 +1,12 @@
-list_datasets: [['sagnikrayc/quasar']]
+list_datasets: [ [ 'sagnikrayc/quasar' ] ]
 
 select_dataset: 0
+
+model:
+  d_model: 512
+  nhead: 8
+  enc_layers: 16
+  ntoken: 30000
+
+  input_dropout: 0.1
+  input_max_len: 336
